@@ -1,0 +1,5 @@
+Verificamos que o link enviado anteriormente estava fora do ar.
+
+Segue link que está ativo:
+
+https://app.powerbi.com/view?r=eyJrIjoiZmZmODdkMDItODRlMC00YjBlLThlY2EtMWRhZGU4OWFlMTM2IiwidCI6Ijc4NmU0MDgzLTdiMjMtNDRlOC04Y2FjLTQ4NGI5ZDRkOTVhMSJ9
